@@ -18,8 +18,8 @@ For vast.ai ->
 - I recommend getting atleast 25GB storage on a machine with atleaset 24gb of vrm. My fav. are the a5000 machines.
 
 ssh into the box and get the notebook: <br />
-`wget https://raw.githubusercontent.com/adevadeh/fastBooth/main/FastBooth.ipynb`
-or just copy into the "On-start script" field of the image selector
+`wget https://raw.githubusercontent.com/adevadeh/fastBooth/main/FastBooth.ipynb` <br />
+or just copy into the "On-start script" field of the image selector.
 
 - Open the `fastBooth.ipynb` from the file tree and follow the notebook.
 
