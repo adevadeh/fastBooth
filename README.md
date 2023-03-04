@@ -17,9 +17,8 @@ For vast.ai ->
 - Select launch mode as jupyterlab and press select and save.
 - I recommend getting atleast 25GB storage on a machine with atleaset 24gb of vrm. My fav. are the a5000 machines.
 
-ssh into the box and get the notebook:
-`
-wget https://raw.githubusercontent.com/adevadeh/fastBooth/main/FastBooth.ipynb`
+ssh into the box and get the notebook: <br />
+`wget https://raw.githubusercontent.com/adevadeh/fastBooth/main/FastBooth.ipynb`
 or just copy into the "On-start script" field of the image selector
 
 - Open the `fastBooth.ipynb` from the file tree and follow the notebook.
